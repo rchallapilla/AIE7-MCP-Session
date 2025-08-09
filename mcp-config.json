@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "mcp-server": {
+            "command": "uv",
+            "args": ["--directory", "C:\\Users\\chrag\\Documents\\AIE7-MCP-Session", "run", "server.py"]
+        }
+    }
+}
